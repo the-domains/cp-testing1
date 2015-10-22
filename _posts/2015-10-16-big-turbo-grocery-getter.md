@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-22T22:20:10.340Z'
-dateModified: '2015-10-22T22:18:54.682Z'
+datePublished: '2015-10-22T22:56:17.285Z'
+dateModified: '2015-10-22T22:56:14.992Z'
 title: Big Turbo Grocery Getter
+sourcePath: _posts/2015-10-16-big-turbo-grocery-getter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-16-big-turbo-grocery-getter.md
-published: true
 url: big-turbo-grocery-getter/index.html
 _type: Article
 
