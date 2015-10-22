@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-22T22:25:55.502Z'
-dateModified: '2015-10-22T22:25:44.800Z'
+datePublished: '2015-10-22T22:56:04.118Z'
+dateModified: '2015-10-22T22:55:58.996Z'
 title: 'Meteors, Mud, Touaregs, and Trout – Alberta Landscape Photographer'
 sourcePath: _posts/2015-10-17-meteors-mud-touaregs-and-trout-alberta-landscape-photog.md
 published: true
@@ -18,7 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: meteors-mud-touaregs-and-trout-alberta-landscape-photog/index.html
+_type: Article
 
 ---
 Why do the adventures that seem so last minute turn out to be the best ones?  On a whim I decided that given the lack of moon and the Perseids Meteor shower was peaking at pretty much the same time, I loaded up my photo, camp, and fishing gear and headed out to one of my favorite places in Alberta...Nordegg.  The skies were clearing, the weather was warm...all the stars seemed to be aligning (for once).  Anyway I thought I'd post a few of my favorite shots from the adventure.  The sky was amazing, the fishing was fantastic, and the scenery was breath-taking as usual.
