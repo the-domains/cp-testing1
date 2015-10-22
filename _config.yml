@@ -1,7 +1,7 @@
 name: cp-testing1
 favicon: null
 layout_spectrum: 0.41210426506586373
-typography_spectrum: 0.6093348977155983
+typography_spectrum: 0.37047
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#0c0d11'
+    - '#3a5f9a'
+    - '#f5f5f5'
+    - '#6f93c9'
+    - '#b5d8eb'
   brandStrength: 0.9816770351026207
   lightness: 0.4371882686391473
   saturation: 0.6300167280714959
