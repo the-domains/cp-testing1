@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: fdsfvdsgvfdbvf  fsfgrdgrdfghdghtreghtregtr
-datePublished: '2015-10-22T22:20:10.339Z'
-dateModified: '2015-10-22T22:19:06.030Z'
+datePublished: '2015-10-22T22:26:21.649Z'
+dateModified: '2015-10-22T22:26:17.192Z'
 title: fall mountain run
 sourcePath: _posts/2015-10-16-fall-mountain-run.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: fall-mountain-run/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb46f157-ca6f-4f3c-ab57-2ef01aa60aa2.jpg)
