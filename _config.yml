@@ -1,0 +1,23 @@
+name: cp-testing1
+favicon: null
+layout_spectrum: 0.41210426506586373
+typography_spectrum: 0.6093348977155983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9816770351026207
+  lightness: 0.4371882686391473
+  saturation: 0.6300167280714959
+  rhythmicContrast: 0.7708492854144424
+purpose: []
