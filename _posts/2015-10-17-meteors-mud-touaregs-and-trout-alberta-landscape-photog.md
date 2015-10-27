@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-27T07:03:58.837Z'
-dateModified: '2015-10-27T07:03:56.138Z'
+datePublished: '2015-10-27T08:09:24.977Z'
+dateModified: '2015-10-27T08:09:21.633Z'
 title: 'Meteors, Mud, Touaregs, and Trout – Alberta Landscape Photographer'
 sourcePath: _posts/2015-10-17-meteors-mud-touaregs-and-trout-alberta-landscape-photog.md
 published: true
