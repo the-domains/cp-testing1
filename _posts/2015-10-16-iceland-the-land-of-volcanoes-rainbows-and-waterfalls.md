@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-27T06:53:30.676Z'
-dateModified: '2015-10-27T06:53:27.962Z'
+datePublished: '2015-10-27T07:04:44.232Z'
+dateModified: '2015-10-27T07:04:40.747Z'
 title: 'Iceland- The Land of Volcanoes, Rainbows, and Waterfalls'
 sourcePath: _posts/2015-10-16-iceland-the-land-of-volcanoes-rainbows-and-waterfalls.md
 published: true
