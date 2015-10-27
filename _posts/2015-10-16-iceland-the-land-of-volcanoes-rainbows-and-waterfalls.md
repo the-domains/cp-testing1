@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-27T07:19:16.003Z'
-dateModified: '2015-10-27T07:19:13.651Z'
+datePublished: '2015-10-27T22:59:15.775Z'
+dateModified: '2015-10-27T22:58:48.922Z'
 title: 'Iceland- The Land of Volcanoes, Rainbows, and Waterfalls'
 sourcePath: _posts/2015-10-16-iceland-the-land-of-volcanoes-rainbows-and-waterfalls.md
 published: true
@@ -22,7 +22,8 @@ _type: Article
 
 ---
 I had the opportunity to travel to Iceland this summer and do a self-drive tour around the lesser traveled Westfjords of Iceland.  What an amazing place...   The country is such a vastly different landscape than what I'm used to here in Alberta.  It was almost like looking at a scene from Jurassic Park or something with huge moss-covered mountains everywhere with a waterfall pouring out the side of it at least every few km's.  A week was definitely not enough time to spend in the magical country.  When I go back I am definitely taking my fly rod!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dfa7fc6-9e95-4669-89d9-f8e46827aeca.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/582bf0ef-cc27-4e75-861e-c52db249019b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/543681b7-01d0-4d91-a936-6f1029c6cfe7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87d00563-e7bd-494d-857d-f34073f98395.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2b003c-4c5b-49ed-a8df-c0f3ebe6eb88.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e81661-aa74-4713-b42a-2cb803444957.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/871fd4cf-77b2-49da-8d3a-9909366c76d8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/229c6642-878f-4443-9bb8-d40b07376b6b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a70e657-de82-4bbf-bbc4-8b39fcc47c56.jpg)
