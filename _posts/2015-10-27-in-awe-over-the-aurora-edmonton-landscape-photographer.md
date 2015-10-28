@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-27T22:50:35.426Z'
-dateModified: '2015-10-27T22:50:00.733Z'
+datePublished: '2015-10-28T05:52:32.792Z'
+dateModified: '2015-10-28T05:52:30.856Z'
 title: In awe over the Aurora – Edmonton Landscape Photographer
+sourcePath: _posts/2015-10-27-in-awe-over-the-aurora-edmonton-landscape-photographer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-27-in-awe-over-the-aurora-edmonton-landscape-photographer.md
-published: true
 url: in-awe-over-the-aurora-edmonton-landscape-photographer/index.html
 _type: Article
 
