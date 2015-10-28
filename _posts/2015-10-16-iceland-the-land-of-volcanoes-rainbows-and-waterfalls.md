@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-27T22:59:15.775Z'
-dateModified: '2015-10-27T22:58:48.922Z'
+description: A little bit of my adventure from traveling through the Westjords of Iceland last summer
+datePublished: '2015-10-28T05:55:28.263Z'
+dateModified: '2015-10-28T05:55:25.270Z'
 title: 'Iceland- The Land of Volcanoes, Rainbows, and Waterfalls'
 sourcePath: _posts/2015-10-16-iceland-the-land-of-volcanoes-rainbows-and-waterfalls.md
 published: true
