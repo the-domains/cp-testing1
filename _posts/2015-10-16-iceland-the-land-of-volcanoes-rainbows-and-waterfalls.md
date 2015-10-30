@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A little bit of my adventure from traveling through the Westjords of Iceland last summer
-datePublished: '2015-10-28T05:55:28.263Z'
-dateModified: '2015-10-28T05:55:25.270Z'
+datePublished: '2015-10-30T06:23:33.721Z'
+dateModified: '2015-10-30T06:23:30.638Z'
 title: 'Iceland- The Land of Volcanoes, Rainbows, and Waterfalls'
 sourcePath: _posts/2015-10-16-iceland-the-land-of-volcanoes-rainbows-and-waterfalls.md
 published: true
