@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-27T07:18:03.065Z'
-dateModified: '2015-10-27T07:17:56.956Z'
+datePublished: '2015-11-12T23:36:38.526Z'
+dateModified: '2015-11-03T08:16:25.128Z'
 title: Fall mountain adventure
 sourcePath: _posts/2015-10-16-fall-mountain-adventure.md
 published: true
