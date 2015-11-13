@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-13T17:51:27.799Z'
-dateModified: '2015-11-13T17:51:24.813Z'
+datePublished: '2015-11-13T18:16:10.728Z'
+dateModified: '2015-11-13T17:56:21.663Z'
 title: Fall mountain adventure
 sourcePath: _posts/2015-10-16-fall-mountain-adventure.md
 published: true
@@ -26,7 +26,7 @@ I headed out this fall on an adventure down the Foresty Trunk road here in Alber
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c17a537-1cb8-407a-ae16-1a4093067e14.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b522cd9-14ae-4208-9d7c-b8566332e41d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4330a8e0-0a15-4c7c-bfc4-0836664be606.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e53e0a-30bc-4620-b8be-7f61e208fd83.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eedd20c-a660-472f-bbf6-1ef211fd6f75.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e53e0a-30bc-4620-b8be-7f61e208fd83.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf9ffe6-1d41-4faf-b8cb-eebcdf55c83e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/598432d0-ceb3-43af-9ab8-b2add8a9d6a4.jpg)
