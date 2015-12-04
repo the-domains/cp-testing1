@@ -1,7 +1,7 @@
 name: cp-testing1
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34379
+layout_spectrum: 0.61643
+typography_spectrum: 0.25988
 title: Chris Paltzat - Photojournal
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#337cfc'
-    - '#2b3fd4'
-    - '#2d1b27'
-    - '#56303d'
-    - '#8b536b'
+    - '#96a9be'
+    - '#dae5eb'
+    - '#537ead'
+    - '#283f4c'
+    - '#8c896a'
   brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  lightness: 0
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
