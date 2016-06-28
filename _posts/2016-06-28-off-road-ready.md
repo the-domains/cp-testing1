@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Off-Road Ready
-datePublished: '2016-06-28T16:40:48.632Z'
-dateModified: '2016-06-28T16:39:34.289Z'
+datePublished: '2016-06-28T16:43:43.271Z'
+dateModified: '2016-06-28T16:43:40.708Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-28-off-road-ready.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-28-off-road-ready.md
 url: off-road-ready/index.html
 _type: Article
 
