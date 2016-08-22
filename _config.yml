@@ -1,20 +1,4 @@
-name: cp-testing1
-favicon: null
-layout_spectrum: 0.09823
 typography_spectrum: 0.37872
-title: Chris Paltzat - Photojournal
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#96a9be'
@@ -26,4 +10,20 @@ color:
   lightness: 0.125
   saturation: 0.625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.09823
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cp-testing1
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Chris Paltzat - Photojournal
 purpose: []
