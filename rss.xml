@@ -4,30 +4,21 @@
         <description><![CDATA[Chris Paltzat - Photojournal]]></description>
         <link>https://thegrid.ai/cp-testing1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 21:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 21:43:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cp-testing1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fall in the mountains]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36a24586-0443-45af-914d-2478ec3e2299.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/cp-testing1/fall-in-the-mountains/index.html</link>
+            <guid isPermaLink="false">7e4905fc-170a-4b21-9add-81037d9df21f</guid>
+            <pubDate>Fri, 02 Sep 2016 21:43:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rainforest]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c6d742-ef3a-414d-8d6e-61002de43e15.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/cp-testing1/rainforest/index.html</link>
             <guid isPermaLink="false">9c0c2906-d3f5-4ee9-bc13-82ea9a5f406d</guid>
             <pubDate>Thu, 18 Aug 2016 21:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ff377e-e85c-41de-9330-073cc726a26a.jpg" alt="" title="" />]]></description>
-            <link>https://thegrid.ai/cp-testing1/off-road-ready/index.html</link>
-            <guid isPermaLink="false">49413cf6-b3f6-4324-a2dc-d21dd738d78c</guid>
-            <pubDate>Tue, 28 Jun 2016 17:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Turbo Grocery Getter]]></title>
-            <description><![CDATA[<article><h1>Big Turbo Grocery Getter</h1><p>
-
-One fun and fast little wagon. Built 1.8T + GT2871R + 30 PSI = FUN (about 400 horses of fun).  Such a clean looking Audi A4 Ultrasport Avant bathed in a beautiful prairie sunset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe4db678c8e42f5eb141ef3fb9eb33dbcf03f305.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cp-testing1/big-turbo-grocery-getter/index.html</link>
-            <guid isPermaLink="false">58768b42-61a9-45bc-bb0b-ae8252fc3c5f</guid>
-            <pubDate>Thu, 11 Feb 2016 20:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In awe over the Aurora – Edmonton Landscape Photographer]]></title>
@@ -42,13 +33,6 @@ One fun and fast little wagon. Built 1.8T + GT2871R + 30 PSI = FUN (about 400 ho
             <link>https://thegrid.ai/cp-testing1/fall-mountain-adventure/index.html</link>
             <guid isPermaLink="false">99c01fb1-6ca8-4be6-bcc1-d569a537f809</guid>
             <pubDate>Fri, 13 Nov 2015 18:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[True Alberta Cowboys – Alberta Commercial Photographer]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5810ab78-b28d-4ca8-918a-441554547527.jpg">]]></description>
-            <link>https://thegrid.ai/cp-testing1/true-alberta-cowboys-alberta-commercial-photographer/index.html</link>
-            <guid isPermaLink="false">84a1e593-5fb1-4703-a645-865ced32b56e</guid>
-            <pubDate>Fri, 30 Oct 2015 20:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
